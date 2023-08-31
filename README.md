@@ -1,6 +1,6 @@
 # ByteTales - Mini Blog Web Application (MERN Stack)
 
-ByteTales is a web application built using the MERN stack that enables users to create, read, edit, and delete mini blogs. It provides a platform for sharing short stories, thoughts, and more.
+ByteTales is a web application built using the MERN stack that enables users to create, read, edit, and delete mini informative blogs. It provides a platform for sharing short stories, thoughts, and more.
 
 
 ## Features
